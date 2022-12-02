@@ -7,5 +7,6 @@ class Assignemt1{
         System.out.println("Hello");
         System.out.println("Created one Branch as Branch-1");
         System.out.println("Chnges did to push and Pull");
+        System.out.println("Chnages made for Direct Pull command");
     }
 }
